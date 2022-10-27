@@ -1,0 +1,17 @@
+{
+  "name": "zrooter-bos-altyapi",
+  "version": "1.0.0",
+  "description": "Made by zRooter",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zRooter",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "fs": "^0.0.1-security",
+    "mongoose": "^6.7.0"
+  }
+}
